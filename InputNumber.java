@@ -6,11 +6,9 @@ public class InputNumber{
     Scanner input = new Scanner(System.in);
 
     System.out.println("Enter a number: ");
-    String number = input.next();
+    int number = input.nextInt();
 
-    System.out.println("Number entered is: "+number);
-    input.nextInt();
+    System.out.println("Number entered is: " + number );
 
-  input.close();
   }
 } 
