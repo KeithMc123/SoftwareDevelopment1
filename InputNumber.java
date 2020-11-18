@@ -10,5 +10,6 @@ public class InputNumber{
 
     System.out.println("Number entered is: " + number );
 
+    input.close();
   }
 } 
