@@ -1,0 +1,3 @@
+tasks:
+  - init: .gitpod.yml
+    command: Input output
