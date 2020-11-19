@@ -8,7 +8,7 @@ public class Jean{
         String career = "teacher";
         int age = 19;
 
-        System.out.println( name+ " is " +age+ " years old and is studying " +course+ " in " +college+ ". Some day she hopes to be a " +career+ ".");
+        System.out.println( name+ " is " +age+ " years old and is studying " +course+ " in " +college+ ".\n Some day she hopes to be a " +career+ ".");
 
     }
 }
