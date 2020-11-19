@@ -17,7 +17,7 @@ public class Types{
         int age = 40;
         double examscore = 27.5;
 
-        System.out.println(name+ " is a " +age+ " year old " +gender+ ". life is " +lifequality+ " on " +name+ ". He works as a " +occupation+ ". He is " +maritalstatus+ " and has " +numchildren+ " children. HE earns" +$+ " a week but needs " +more$+ " a week to support his ex wife and children. He was hoping to pass an exam which would enable him to earn more, but unfortunately poor " +name+ " failed it with a score of " +examscore );
+        System.out.println(name+ " is a " +age+ " year old " +gender+ ". life is " +lifequality+ " on " +name+ ". He works as a " +occupation+ ".\nHe is " +maritalstatus+ " and has " +numchildren+ " children. He earns " +$+ " a week but needs " +more$+ " a week to support his ex wife and children.\nHe was hoping to pass an exam which would enable him to earn more, but unfortunately poor " +name+ " failed it with a score of " +examscore+ "." );
 
     }
 }
