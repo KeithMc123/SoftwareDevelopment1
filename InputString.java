@@ -5,11 +5,11 @@ public class InputString{
 
         Scanner input = new Scanner(System.in);
 
-     
         System.out.println("Enter your first name here:");
-        String name = input.next();
+        String name = "";
 
         System.out.println("Hello " + name );
 
+        input.close();
     }
 }
